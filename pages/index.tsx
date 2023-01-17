@@ -26,18 +26,12 @@ export default function Home() {
       </section>
 
       {/* skills */}
-      <section id='skills'>
-        Skills
-
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi fuga explicabo rerum ipsum doloribus molestiae ab suscipit. Exercitationem, laborum fuga facilis et nisi laudantium id aperiam, sint a eligendi odio.
+      <section id='skills'  className='snap-center'> 
+       Skills
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum dignissimos recusandae ex voluptatem quaerat aperiam sapiente, quidem nemo architecto nihil, asperiores perspiciatis, esse non officia ducimus fugiat debitis labore expedita!
       </section>
 
       {/* projects */}
-      <section id='projects'>
-        Skills
-
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi fuga explicabo rerum ipsum doloribus molestiae ab suscipit. Exercitationem, laborum fuga facilis et nisi laudantium id aperiam, sint a eligendi odio.
-      </section>
 
       {/* contact me */}
 
