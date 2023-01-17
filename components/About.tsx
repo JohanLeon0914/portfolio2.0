@@ -65,7 +65,7 @@ export default function About({}: Props) {
           background:
         </h4>
         <p className="text-base">
-          I'm a systems engineering student specializing in web development,
+          Im a systems engineering student specializing in web development,
           especially frontend, with experience in technologies like Reactjs,
           Angular, Nextjs, Nodejs, Bootstrap, TailwindCSS and Git. I also have
           experience in managing relational databases such as Mysql and
