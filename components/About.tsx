@@ -33,6 +33,9 @@ export default function About({}: Props) {
       <br />
       <br />
       <br />
+      <br />
+      <br />
+      <br />
 
       <motion.img
         initial={{
