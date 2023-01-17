@@ -27,8 +27,7 @@ export default function Home() {
 
       {/* skills */}
       <section id='skills'  className='snap-center'> 
-       Skills
-       Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum dignissimos recusandae ex voluptatem quaerat aperiam sapiente, quidem nemo architecto nihil, asperiores perspiciatis, esse non officia ducimus fugiat debitis labore expedita!
+      
       </section>
 
       {/* projects */}
