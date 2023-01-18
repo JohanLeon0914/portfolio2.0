@@ -21,22 +21,6 @@ export default function About({}: Props) {
         About
       </h3>
 
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-
       <motion.img
         initial={{
           x: -200,
@@ -51,30 +35,21 @@ export default function About({}: Props) {
         }}
         viewport={{ once: true }}
         src="./img/yo.jpg"
-        className="-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover
+        className="-mb-20 mt-[150px] md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover
         md:rounded-lg md:w-64 md:h-95 xl:w-[300px]  xl:h-[300px]"
       />
 
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
 
-      <div className="space-y-10 px-0 md:px-10">
-        <h4 className="text-4xl font-semibold text-center">
+      <div className="space-y-10 px-0 md:px-10 mt-[100px] mb-1">
+        <h4 className="text-3xl font-semibold text-center">
           Here is a{" "}
           <span className="underline decoration-[#F7AB0A]">little</span>{" "}
           background:
         </h4>
         <p className="text-base">
-          Im a systems engineering student specializing in web development,
-          especially frontend, with experience in technologies like Reactjs,
-          Angular, Nextjs, Nodejs, Bootstrap, TailwindCSS and Git. I also have
-          experience in managing relational databases such as Mysql and
-          non-relational databases such as MongoDB. I want to take my
-          professional career to the next level, applying all my knowledge
-          acquired in the last years of my career in the world of work.
+        I am a systems engineering student specializing in web development,
+          focused on frontend, with experience in technologies such as Reactjs,
+          Angular, Nextjs, Nodejs, Bootstrap and TailwindCSS. prepared for any challenge that comes my way.
         </p>
       </div>
     </motion.div>
